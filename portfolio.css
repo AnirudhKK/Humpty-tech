@@ -41,9 +41,12 @@ body {
 }
 .topnav a:hover{
   text-decoration:none;
+  font-size:25px;
   background-color:#031721;
   color:#01a9b4;
+  transition: font 0.3s ease;
 }
+
 .topnav li:hover{
   background-color:#031721;
   color:#092532;
