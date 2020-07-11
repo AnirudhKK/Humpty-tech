@@ -27,7 +27,6 @@ body {
   display: inline-flex;
 }
 .topnav li {
-  width:100%;
   display:inline;
   padding: 20px 20px;
 }
@@ -178,5 +177,5 @@ animation: fadeIn ease 1s;
 }
 
 .third-block{
-  margin-bottom: 30px;
+  margin-top: 50px;
 }
