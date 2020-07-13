@@ -152,9 +152,10 @@ body {
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 1fr;
-  grid-template-areas: "skillset
+  grid-template-areas: "skillset-two card-two"
+}
   
-  -two card-two";
+ .card-two{
   grid-column-gap: 25px;
   justify-content: stretch;
   align-content: stretch;
